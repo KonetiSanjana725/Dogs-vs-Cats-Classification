@@ -145,8 +145,11 @@ pip install tensorflow numpy matplotlib
 
 ### 2.In Google Colab
 *Open the notebook in Google Colab
+
 *Upload dataset to Google Drive
+
 *Mount Google Drive
+
 *Run all notebook cells
 
 ---
