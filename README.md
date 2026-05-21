@@ -1,4 +1,3 @@
-# Dogs-vs-Cats-Classification
 # Dog vs Cat Image Classification using CNN
 
 ## Project Overview
